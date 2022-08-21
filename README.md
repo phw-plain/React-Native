@@ -14,5 +14,5 @@
 
 ### Projects
 
-``` AwesomeProject ``` : 숫자 카운터 애플리케이션
+``` AwesomeProject ``` : 숫자 카운터 애플리케이션 (22.08.22)
 
