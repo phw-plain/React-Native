@@ -17,6 +17,8 @@
 
   cd 프로젝트명
   
+  npm install
+  
   npm start
  
   expo go 앱 실행 후 QR CODE 스캔
