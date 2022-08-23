@@ -29,5 +29,5 @@
 ### Projects
 
 ``` AwesomeProject ``` : 숫자 카운터 애플리케이션 (22.08.21) <br/>
-``` Lotto ``` : 로또 번호 생성 애플리케이션 (22.08.22)
-``` Memo ``` : Async storage를 이용한 메모 
+``` Lotto ``` : 로또 번호 생성 애플리케이션 (22.08.22) <br/>
+``` Memo ``` : Async storage를 이용한 메모 (22.08.23) <br/>
